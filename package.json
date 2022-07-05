@@ -1,0 +1,21 @@
+{
+    "name": "krbviolet",
+    "displayName": "Krb_Violet",
+    "description": "A violet theme for C lovers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Krb_Violet",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Krb_Violet-color-theme.json"
+            }
+        ]
+    }
+}

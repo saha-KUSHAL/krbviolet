@@ -2,6 +2,11 @@
     "name": "krbviolet",
     "displayName": "Krb_Violet",
     "description": "A violet theme for C lovers",
+    "icon": "https://github.com/krbfx/krbviolet/blob/main/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/krbfx/krbviolet"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.68.0"

@@ -1,7 +1,9 @@
-<h1 align="Left">
+<h1 align="center">
   <br>
     <img src="https://github.com/krbfx/krbviolet/blob/main/icon.png" alt="logo" width="150">
 </h1>
+
+![readme](https://github.com/krbfx/krbviolet/blob/main/readme.png)
 
 # Installation
 
@@ -14,7 +16,7 @@
 1. Make sure to install [`Cascadia Code`](https://github.com/microsoft/cascadia-code) font by Microsoft.
 
 2. Add or Edit this values in [`setting.json`](https://github.com/krbfx/images/blob/main/Untitled.png) file in vs code.
-```json
+```
 "editor.fontFamily": "Cascadia Code",
     "editor.fontSize": 18,
     "editor.lineHeight": 1.4,

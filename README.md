@@ -13,7 +13,7 @@
 # Recommended Settings
 1. Make sure to install [`Cascadia Code`](https://github.com/microsoft/cascadia-code) font by Microsoft.
 
-2. Add or Edit this values in `setting.json` file in vs code.
+2. Add or Edit this values in [`setting.json`](https://github.com/krbfx/images/blob/main/Untitled.png) file in vs code.
 ```json
 "editor.fontFamily": "Cascadia Code",
     "editor.fontSize": 18,

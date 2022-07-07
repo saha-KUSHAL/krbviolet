@@ -1,9 +1,9 @@
 <h1 align="center">
   <br>
-    <img src="https://github.com/krbfx/krbviolet/blob/main/icon.png" alt="logo" width="150">
+    <img src="https://user-images.githubusercontent.com/99195543/177833085-5a4394ac-834b-40b7-9bec-296b544c39c1.png" alt="logo" width="150">
 </h1>
 
-![readme](https://github.com/krbfx/krbviolet/blob/main/readme.png)
+![readme](readme.png)
 
 # Installation
 

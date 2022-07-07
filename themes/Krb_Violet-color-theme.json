@@ -807,7 +807,7 @@
 		"name": "Strings",
 		"scope": "string.quoted.double.c",
 		"settings": {
-		  "foreground": "#e7e0e5"
+		  "foreground": "#d1c7d6"
 		}
 	  },
 	  {
@@ -2072,7 +2072,7 @@
 	  "tab.activeForeground": "#f1f0f2",
 	  "tab.border": "#4e4371",
 	  "tab.activeBackground": "#4e4371",
-	  "tab.activeBorder": "#faea38",
+	  "tab.activeBorder":"#d7d700",
 	  "tab.activeBorderTop": "#00000000",
 	  "tab.inactiveBackground": "#4e4371",
 	  "tab.inactiveForeground": "#ffffffb7",

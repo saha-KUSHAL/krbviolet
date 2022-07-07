@@ -171,7 +171,7 @@
 	  },
 	  {
 		"name": "c++ block",
-		"scope": "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c",
+		"scope": "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp",
 		"settings": {
 		  "foreground": "#d4d4d4"
 		}
@@ -454,6 +454,36 @@
 		}
 	  },
 	  {
+		"name": "punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c",
+		"scope": "punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c",
+		"settings": {
+		  "foreground": "#E8B078"
+		}
+	  },
+	  {
+		"name": "punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c",
+		"scope": "punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c",
+		"settings": {
+		  "foreground": "#49c7c7" 
+		}
+	  },
+	  {
+		"name": "punctuation.definition.end.bracket.square.c,punctuation.definition.begin.bracket.square.c",
+		"scope": "punctuation.definition.end.bracket.square.c,punctuation.definition.begin.bracket.square.c",
+		"settings": {
+		  "foreground": "#c79b49" 
+		}
+	  },
+	
+	  {
+		"name": "punctuation.section.arguments.begin.bracket.round.c,punctuation.section.arguments.end.bracket.round.c",
+		"scope": "punctuation.section.arguments.begin.bracket.round.c,punctuation.section.arguments.end.bracket.round.c",
+		"settings": {
+		  "foreground": "#49c1c7" 
+		}
+	  },
+	
+	  {
 		"name": "Punctuation",
 		"scope": "punctuation.separator.delimiter",
 		"settings": {
@@ -478,7 +508,7 @@
 		"name": "keyword.operator.sizeof.c",
 		"scope": "keyword.operator.sizeof.c,keyword.operator.sizeof.cpp",
 		"settings": {
-		  "foreground": "#f1f0f2"
+		  "foreground": "#a68ed8"
 		}
 	  },
 	  {
@@ -1357,7 +1387,7 @@
 		  "punctuation.section.embedded"
 		],
 		"settings": {
-		  "foreground": "#f1f0f2"
+		  "foreground": "#71657e"
 		}
 	  },
 	  {

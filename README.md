@@ -1,3 +1,7 @@
+<h1 align="Left">
+  <br>
+    <img src="https://github.com/krbfx/krbviolet/blob/main/icon.png" alt="logo" width="100">
+</h1>
 
 # Installation
 
@@ -7,9 +11,9 @@
 4. Code > Preferences > Color Theme > **Krb_Violet**
 
 # Recommanded Settings
-1. Make sure to install Cascadia Code font by Microsoft. [Download here](https://github.com/microsoft/cascadia-code).
+1. Make sure to install [`Cascadia Code`](https://github.com/microsoft/cascadia-code) font by Microsoft.
 
-2. Add or Edit this values in setting.json file in vs code.
+2. Add or Edit this values in `setting.json` file in vs code.
 ```json
 "editor.fontFamily": "Cascadia Code",
     "editor.fontSize": 18,

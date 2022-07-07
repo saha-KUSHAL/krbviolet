@@ -1,6 +1,6 @@
 <h1 align="Left">
   <br>
-    <img src="https://github.com/krbfx/krbviolet/blob/main/icon.png" alt="logo" width="100">
+    <img src="https://github.com/krbfx/krbviolet/blob/main/icon.png" alt="logo" width="150">
 </h1>
 
 # Installation

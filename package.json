@@ -2,7 +2,7 @@
     "name": "krbviolet",
     "displayName": "Krb_Violet",
     "description": "A violet theme for C lovers",
-    "icon": "https://github.com/krbfx/krbviolet/blob/main/icon.png",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/krbfx/krbviolet"

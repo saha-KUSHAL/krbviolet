@@ -10,7 +10,7 @@
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme > **Krb_Violet**
 
-# Recommanded Settings
+# Recommended Settings
 1. Make sure to install [`Cascadia Code`](https://github.com/microsoft/cascadia-code) font by Microsoft.
 
 2. Add or Edit this values in `setting.json` file in vs code.

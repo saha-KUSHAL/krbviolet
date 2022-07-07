@@ -3,6 +3,7 @@
     "displayName": "Krb_Violet",
     "description": "A violet theme for C lovers",
     "icon": "icon.png",
+    "publisher": "KUSHALSAHA",
     "repository": {
         "type": "git",
         "url": "https://github.com/krbfx/krbviolet"

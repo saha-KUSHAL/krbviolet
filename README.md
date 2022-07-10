@@ -25,3 +25,5 @@
     "editor.bracketPairColorization.enabled": false,
     "terminal.integrated.fontFamily": "Cascadia Code PL",
 ```
+# Bugs
+-You tell me [here](https://github.com/krbfx/krbviolet/issues)

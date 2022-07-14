@@ -15,7 +15,7 @@
 # Recommended Settings
 1. Make sure to install [`Cascadia Code`](https://github.com/microsoft/cascadia-code) font by Microsoft.
 
-2. Add or Edit this values in [`setting.json`](https://github.com/krbfx/images/blob/main/Untitled.png) file in vs code.
+2. Add or Edit this values in [`settings.json`](https://github.com/krbfx/images/blob/main/Untitled.png) file in vs code.
 ```
 "editor.fontFamily": "Cascadia Code",
     "editor.fontSize": 18,
@@ -25,3 +25,5 @@
     "editor.bracketPairColorization.enabled": false,
     "terminal.integrated.fontFamily": "Cascadia Code PL",
 ```
+# Bugs
+  -You tell me [here](https://github.com/krbfx/krbviolet/issues)

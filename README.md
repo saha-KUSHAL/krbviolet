@@ -6,6 +6,11 @@
 ![readme](readme.png)
 
 # Installation
+Launch VS Code Quick Open [Ctrl + P],and paste this following line,
+```
+  ext install KUSHALSAHA.krbviolet
+```
+## Otherwise >
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Krb_Violet` - find the one by **KUSHAL SAHA**
